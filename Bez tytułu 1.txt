@@ -1,0 +1,13 @@
+Konwersja xls na bazê danych
+www.sqlizer.io konwertuje xml/json/xls/xlsx/csv na kwerendy sql
+mysqlimport— program shellowy do importu plików tekstowych
+j albo xlsx – do pobrania z npm narzêdzie zapisuje i czyta xlsx, xml, cvs, dzia³a w konsoli albo jako javascript w przegl¹darce. 
+Pobieranie, manipulowanie i parsowanie danych
+Mo¿liwe opcje:
+    1. CSV - fgetcsv(file,length,separator,enclosure)  wbudowana funkcja php4
+    2. Json, - json_decode wbudowana funckaj php5
+    3. xml – xml_parse_into_struct wbudowana funkcja php4 parsuje xml do tablicy
+    4. SQLite SQLite Studio importuje CSVki, baza danych jest w formie pliku a propel nie do koñca sqlite wspiera wiêc na serwerze chyba nie ma sensu
+    5. MySQL – standardowo propel
+
+

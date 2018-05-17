@@ -1,0 +1,15 @@
+{
+  "name": "jsxlx",
+  "version": "1.0.0",
+  "description": "convers xls to database files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateusz Stomski",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "xlsx": "^0.12.12"
+  }
+}
